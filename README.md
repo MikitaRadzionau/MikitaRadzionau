@@ -1,9 +1,9 @@
-### 👋 Hi, I’m @MikitaRadzionau, from Belarus
-- 👀 I’m interested in coding/blender/little bit a games/english
+### 👋 Sup everyone, I’m @MikitaRadzionau, from Belarus
+- 👀 I’m interested in coding/blender/little bit a games/english/music
 - 🌱 I'm currently in 11th grade (as of 01/05/24)
 - 📫 How to reach me - mik.radzionau@gmail.com
 
-
+##or
 
 
 ### Связаться со мной/ Hit me:
