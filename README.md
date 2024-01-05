@@ -3,7 +3,7 @@
 - 🌱 I'm currently in 11th grade (as of 01/05/24)
 - 📫 How to reach me - mik.radzionau@gmail.com
 
-###or
+
 
 
 ### Связаться со мной/ Hit me:
