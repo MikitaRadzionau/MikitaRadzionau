@@ -11,7 +11,7 @@
 [<img alt="MikRad | Instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />][instagram]
 
 ### My leetcode
-[<img alt="MikRad | Leetcode" src="https://img.shields.io/badge/leetcode-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />][leetcode]
+[<img alt="MikRad | Leetcode" src="https://img.shields.io/badge/leetcode-E4405F.svg?&style=for-the-badge&logo=Leetcode&logoColor=white" />][leetcode]
 
 [instagram]: https://www.instagram.com/ov_ov_ov_/
 [twitter]: https://twitter.com/MikiRadz
