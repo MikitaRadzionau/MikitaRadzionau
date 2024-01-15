@@ -9,7 +9,8 @@
 ### Связаться со мной/ Hit me:
 [<img alt="MikRad | Twitter" src="https://img.shields.io/badge/twitter-E4405F.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img alt="MikRad | Instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />][instagram]
-https://replit.com/@mikradzionau
+[<img alt="MikRad | Gmail" src="https://img.shields.io/badge/gmail-E4405F.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />][mail]
+
 ### My leetcode
 [<img alt="MikRad | Leetcode" src="https://img.shields.io/badge/leetcode-E4405F.svg?&style=for-the-badge&logo=Leetcode&logoColor=white" />][leetcode]
 ### My replit
@@ -19,3 +20,4 @@ https://replit.com/@mikradzionau
 [twitter]: https://twitter.com/MikiRadz
 [leetcode]:https://leetcode.com/MikitaRadzionau/
 [replit]:https://leetcode.com/MikitaRadzionau/
+[mail]:https://mail.google.com/mail/u/0/#inbox
